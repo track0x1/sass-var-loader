@@ -1,0 +1,18 @@
+{
+  "name": "sass-var-loader",
+  "version": "1.0.0",
+  "description": "A custom variable loader for sass.",
+  "main": "index.js",
+  "author": "Tom Beute",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/track0x1/sass-var-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/track0x1/sass-var-loader/issues"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.15"
+  }
+}
